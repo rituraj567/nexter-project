@@ -3,7 +3,7 @@
 
 A beautiful website built using new CSS3 technologies like CSS Grids and Flexbox.
 
-View the live application by clicking on this link https://rituraj567.github.io/nexter/
+View the live application by clicking on this link https://rituraj567.github.io/nexter-project/
 
 Getting Started
 ===============
